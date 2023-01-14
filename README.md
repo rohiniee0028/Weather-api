@@ -2,7 +2,7 @@
 - A weather forecasting web application built using weather API. It shows city and current location based weather data with next 7 days forecast.
 
 ## Some glimpse of my project.
-- In this project user can get on weather location i.e present location by preesing button Get on weather location.
+- In this project user can get on weather location i.e present location by pressing button Get on weather location.
 - User can also get weather data according to the city name by simply input their city name .
 - According to the city name user can also get maximum and minimum temperature for 7 days.
 
